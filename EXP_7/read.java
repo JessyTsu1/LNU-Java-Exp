@@ -9,7 +9,7 @@ public class read {
             var in = new FileInputStream(filename);
             int b;
             while ((b=in.read())!=-1){
-                Process input
+                Process input;
             }
         }
         catch (IOException exception){
